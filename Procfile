@@ -1,0 +1,1 @@
+hackerz: bash hackerz.sh
